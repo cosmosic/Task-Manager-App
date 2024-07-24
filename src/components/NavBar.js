@@ -73,7 +73,7 @@ const Navbar = () => {
     <Header className="header">
       <div className="logo-container">
         <CalendarOutlined className="calendar-icon" />
-        <h2>Task Application</h2>
+      
       </div>
       <div className="nav-buttons">
         {user ? (
